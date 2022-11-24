@@ -1,2 +1,2 @@
 # alx-pre_course
-This is the readme file 
+How to be up to date in git
